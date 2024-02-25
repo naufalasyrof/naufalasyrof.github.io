@@ -1,0 +1,23 @@
+@import url('https://fonts.cdnfonts.com/css/tt-norms-pro');
+
+*{
+    font-family: 'TT Norms Pro', sans-serif;
+}
+
+body{
+    background-color: #F8F7F4;
+}
+
+btn-icon{
+    background: #EAD7BB;
+    color: #776B5D;
+    border: 2px solid black;
+    margin: auto;  
+    text-align: center;
+}
+
+btn-icon:hover{
+    outline-width: 1px #776B5D;
+    background: #b9a991;
+    color: #776B5D;
+}
